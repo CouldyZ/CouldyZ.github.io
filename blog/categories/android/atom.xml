@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Android | My Octopress Blog]]></title>
+  <link href="http://couldyz.github.io/blog/categories/android/atom.xml" rel="self"/>
+  <link href="http://couldyz.github.io/"/>
+  <updated>2015-11-08T01:11:25+08:00</updated>
+  <id>http://couldyz.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[关于我]]></title>
+    <link href="http://couldyz.github.io/blog/2015/08/17/aboutme/"/>
+    <updated>2015-08-17T00:25:07+08:00</updated>
+    <id>http://couldyz.github.io/blog/2015/08/17/aboutme</id>
+    <content type="html"><![CDATA[<ul>
+<li>自我评价</li>
+<li>学习历程</li>
+<li>作品</li>
+<li>简历</li>
+</ul>
+
+
+<p><strong>自我评价</strong></p>
+
+<p>   爱好方面：
+   吃货（爱任何好吃的）
+   动漫迷（起床第一件事，先看看bilibili有木有更新我喜欢的动漫）
+   猎奇 （搜索一些新奇，有趣的东东）
+   睡觉算不算爱好？
+   发呆算不算爱好？</p>
+
+<p>   缺点：
+   虽然不是处女座，但是，有代码洁癖，就算决不允许代码有任何一丝丝不整洁，看着不舒服！</p>
+
+<p><strong>学习历程</strong></p>
+
+<p>   大一的时候本着要好好学习的心态连着大二一起虚度了 = =。
+   大二暑假因为某人，带入了android这个坑坑，自学android，从此一进不起 = =。
+   大三学android，混迹于csdn,github，然而并没有什么成就，惭愧。</p>
+
+<p><strong> 作品</strong></p>
+
+<p>   正在努力制作当中。</p>
+
+<p><strong> 简历</strong></p>
+
+<p>   正在努力制作当中。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[你好，世界]]></title>
+    <link href="http://couldyz.github.io/blog/2015/07/30/helloworld/"/>
+    <updated>2015-07-30T00:25:07+08:00</updated>
+    <id>http://couldyz.github.io/blog/2015/07/30/helloworld</id>
+    <content type="html"><![CDATA[<h2>在这记录学习Android历程~</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标亮</code></p>
+
+<ul>
+<li>Android
+
+<ul>
+<li>http</li>
+<li>sqlite3</li>
+</ul>
+</li>
+<li>PHP</li>
+<li>HTML</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="http://www.jikexueyuan.com">极客学院</a></p>
+
+<p><img src="http://www.bakingobsession.com/wordpress/wp-content/chestnut-mousse-plated.jpg" alt="image" /></p>
+
+<p><video width='640' height='320' preload='metadata' controls poster='http://assets.jikexueyuan.com/practice/list_android.jpg">http://assets.jikexueyuan.com/practice/list_android.jpg</a>'><source src='http://static-jkxy.qiniudn.com/event/jkxy_profile20150318.mp4">http://static-jkxy.qiniudn.com/event/jkxy_profile20150318.mp4</a>' ></video></p>
+
+<pre><code>public class Test {
+
+  public void static main(String[] args){
+     System.out.println("hello world");
+  }
+
+}
+</code></pre>
+
+<pre><code class="java This is a java  http://www.jikexueyuan.com link">public class Test {
+
+  public void static main(String[] args){
+     System.out.println("hello world");
+  }
+
+}
+</code></pre>
+
+<p><figure class='code'><figcaption><span>java  <a href="http://www.jikexueyuan.com">http://www.jikexueyuan.com</a> link </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;</span> <span class="kd">public</span> <span class="kd">class</span> <span class="nc">Test</span> <span class="o">{&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;</span>  <span class="kd">public</span> <span class="kt">void</span> <span class="kd">static</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">){</span>
+</span><span class='line'>     <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(&amp;</span><span class="n">ldquo</span><span class="o">;</span><span class="n">hello</span> <span class="n">world</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="o">;);</span>
+</span><span class='line'>  <span class="o">}&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;}</span>
+</span></code></pre></td></tr></table></div></figure></p>
+]]></content>
+  </entry>
+  
+</feed>
