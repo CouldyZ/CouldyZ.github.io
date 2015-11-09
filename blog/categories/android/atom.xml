@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Android | CloudZ 的博客]]></title>
+  <title><![CDATA[Category: Android | CloudZ's Blog]]></title>
   <link href="http://couldyz.github.io/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://couldyz.github.io/"/>
-  <updated>2015-11-10T01:16:08+08:00</updated>
+  <updated>2015-11-10T01:36:41+08:00</updated>
   <id>http://couldyz.github.io/</id>
   <author>
     <name><![CDATA[CloudZ]]></name>
